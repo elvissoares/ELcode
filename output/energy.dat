@@ -1,0 +1,4 @@
+# This file contains the informations about energy of system
+# Author: Elvis Soares
+# time(s)   Kinectic (erg)    Gravitational(erg)     Internal(erg)    Nuclear_Energy(erg)    Total Energy(erg)
+0	0	-8.07276e+50	5.57103e+50	-1.12879e+50	-2.50173e+50
